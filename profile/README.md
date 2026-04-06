@@ -24,6 +24,4 @@
 > ● 🎮 **Game Development**
 > …and much more…
 > 
-> - # To benefit from our services, you can contact us via our Discord server.
-> 
-> https://lotusblock.net             
+> - To benefit from our services, you can contact us via our Discord server.            
